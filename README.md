@@ -1,6 +1,6 @@
-[![Build Status](https://flatstack.semaphoreci.com/badges/react-next-base/branches/master.svg?style=shields)](https://flatstack.semaphoreci.com/projects/react-next-base)
+# It's FE part of pet project [Bar Analytics](https://github.com/egorpavlovs/bar-analytics)
+Project made for learn and fun. Based on [fs/react-next-base](https://github.com/fs/react-next-base):
 
-# react-next-base
 
 ### Install dependencies:
 
