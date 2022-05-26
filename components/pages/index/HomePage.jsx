@@ -14,7 +14,7 @@ const HomePage = () => {
       <DefaultTemplate>
         <PageContent data-testid="page-content">
           <Title className="capitalize" data-cy="welcome-page">
-            Welcome to React Next Base
+            Welcome to Bar Analyst!
           </Title>
         </PageContent>
       </DefaultTemplate>
