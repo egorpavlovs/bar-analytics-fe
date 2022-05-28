@@ -6,7 +6,7 @@ import { Activity } from 'types/activityType';
 
 import DataCell from './DataCell';
 
-import { StyledTable, ColorLabel, HeaderCell, UserInfo, EmptyList } from './styled';
+// import { StyledTable, ColorLabel, HeaderCell, UserInfo, EmptyList } from './styled';
 
 type Props = {
   data: Activity[];
