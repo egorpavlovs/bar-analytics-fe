@@ -4,7 +4,7 @@ import ProfileImage from 'components/shared/atoms/ProfileImage';
 
 import { Activity } from 'types/activityType';
 
-import DataCell from './DataCell';
+// import DataCell from './DataCell';
 
 // import { StyledTable, ColorLabel, HeaderCell, UserInfo, EmptyList } from './styled';
 
