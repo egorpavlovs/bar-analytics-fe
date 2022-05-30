@@ -10,13 +10,13 @@ import { NotifierProvider } from 'contexts/NotifierContext';
 import DefaultTemplate from 'components/shared/templates/DefaultTemplate';
 import Notifier from 'components/shared/atoms/Notifier';
 
-import PublicCateringCard from './components/PublicCateringCard';
+import PublicCateringTable from './components/PublicCateringTable';
 
 const SignInPage = () => {
   return (
     <NotifierProvider>
       <DefaultTemplate testId="public-catering-index">
-        <PublicCateringCard />
+        <PublicCateringTable />
         <Notifier />
       </DefaultTemplate>
     </NotifierProvider>
